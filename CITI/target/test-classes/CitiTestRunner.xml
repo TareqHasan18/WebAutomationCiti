@@ -16,12 +16,12 @@
         <classes>
            <!-- <class name = "Search.InputSearch"/>
             <class name = "Search.EnterInput"/>
-            <class name= "CrCards.CreditCards"/>
+            <class name= "CrCards.CreditCards"/>-->
             <class name="CrCards.banking"/>
-            <class name= "Banking.banking"/>
+           <!-- <class name= "Banking.banking"/>
             <class name="Lending.lending"/>
             <class name="Investing.investing"/>-->
-            <class name="Citigold.citiGold"/>
+            <!--<class name="Citigold.citiGold"/>-->
         </classes>
     </test>
 

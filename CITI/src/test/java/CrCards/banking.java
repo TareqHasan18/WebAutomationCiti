@@ -10,5 +10,6 @@ public class banking extends CommonAPI {
     public void search() {
         driver.findElement(By.linkText("Credit Cards")).click();
         driver.findElement(By.id("banking")).click();
+        System.out.println("just trying for jenkins");
     }
 }
